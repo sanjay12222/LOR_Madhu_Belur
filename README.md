@@ -1,4 +1,4 @@
-#Letter of Recommendation (LOR)
+**Letter of Recommendation (LOR)**
 
 This repository contains the Letter of Recommendation (LOR) for Mr. Sanjay Meena, prepared by Dr. Madhu N. Belur, Professor in the Department of Electrical Engineering at IIT Bombay. Below are the details:
 
